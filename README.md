@@ -10,7 +10,7 @@ I build agent workflows, retrieval systems, evaluation tooling and Python backen
 
 | Project | What you can inspect |
 | --- | --- |
-| [LangGraph SQL checkpoint saver](https://github.com/sandeshbagmare/azure-sql-langraph-checkpoint-saver) | Sync/async checkpoint persistence for SQL Server and Azure SQL, conformance tests and documented local benchmarks. |
+| [LangGraph SQL checkpoint saver](https://github.com/sandeshbagmare/azure-sql-langraph-checkpoint-saver) | Sync/async checkpoint persistence for SQL Server and Azure SQL, conformance tests and local benchmarks. [Try the quickstart](https://github.com/sandeshbagmare/azure-sql-langraph-checkpoint-saver#quick-start). |
 | [DeepAgents MCP privacy gateway](https://github.com/sandeshbagmare/DeepAgents-Data-Privacy) | Separate-process tool execution with schema/synthetic examples by default, explicit passthrough controls and privacy tests. |
 | [AgenticQ](https://github.com/sandeshbagmare/AgenticQ) | Agent-tool discovery, recommendations and scaffolding across CLI, web/JSON-RPC and VS Code workflows. Credits upstream marketplace work. |
 | [SelfReview](https://github.com/sandeshbagmare/SelfReview-VSCode) | Git diffs, persistent review comments and optional model-provider integrations inside VS Code. |
