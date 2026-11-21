@@ -7,3 +7,5 @@ I build agent workflows, retrieval systems, evaluation tooling and Python backen
 [Portfolio & architecture diagrams](https://sandeshbagmare.github.io/portfolio-engineering/) · [Resume](https://sandeshbagmare.github.io/portfolio-engineering/assets/Sandesh-Bagmare-Applied-AI-2026-11-17.pdf) · [LinkedIn](https://www.linkedin.com/in/sandeshbagmare/)
 
 Interested in Python backend and applied AI engineering opportunities. [Contact me](mailto:sandeshbagmare2110@gmail.com).
+
+**Merged open-source contributions:** [Open Agent Router - gateway URL validation](https://github.com/kdenischenko/open-agent-router/pull/25) · [Wheelgap Tracker - current wheel availability](https://github.com/wheelgap/tracker/pull/217)
